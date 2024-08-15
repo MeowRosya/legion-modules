@@ -1,8 +1,9 @@
 # How to use
 
-# Don't blindly use this repo. Use at your own risk!!!
+### Don't blindly use this repo. Use at your own risk!!!
 
-This is a hub where I keep some some modules for Vanilla OS 2 Orchid. If you want to use some of my modules, it could look like this:
+
+If you want to use some of my modules, it could look like this:
 ``` yaml
   - name: installing-drivers # Or another unique name
     type: includes
