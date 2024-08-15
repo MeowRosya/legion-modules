@@ -1,6 +1,6 @@
 # How to use
 
-### Don't blindly use this repo. Use at your own risk!!!
+### Don't blindly use this modules. Use at your own risk!!!
 
 
 If you want to use some of my modules, it could look like this:
