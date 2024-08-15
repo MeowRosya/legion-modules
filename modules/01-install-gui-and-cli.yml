@@ -1,0 +1,5 @@
+name: install-lll-driver
+type: apt
+source:
+  packages:
+    - python3-legion-linux
