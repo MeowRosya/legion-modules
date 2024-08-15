@@ -13,3 +13,4 @@ If you want to use some of my modules, it could look like this:
       # or
       - https://raw.githubusercontent.com/MeowRosya/vanilla-os-modules/main/modules/00-install-lll-driver.yml
 ```
+I separated installation of driver, systemd services and GUI/CLI tools. So check the modules folder and choose what you want to pick.
